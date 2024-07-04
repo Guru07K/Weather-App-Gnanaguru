@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GNANAGURU K</h1>
-<h3 align="center">MERN Stack</h3>
+<h3 align="center">MERN Stack Project</h3>
 
 
 <p align="left">
@@ -10,7 +10,7 @@
 
 
 <br/>
-<h3> Setup : should install Node, Express, mongoose, mongoDB</h3>
+<h3> Setup : install Node, Express, mongoose, mongoDB</h3>
 <br/>
 <h3> Install Thirt Party library/packages :  react-router-dom, jsonwebtoken, cookie-parser, dotenv, bcryptjs, axios, cors, tailwind</h3>
 
@@ -26,6 +26,13 @@ This web app to get the current weather data of city you submit into the form.
  - See Forecast Weather
  - Register/Login/Logout
  - Dashboard to see favourite city weather
+
+##Screnshots :
+<img width="950" alt="ss" src="https://github.com/Guru07K/Weather-App-Gnanaguru/assets/141668518/914fec16-0968-4bf9-b31a-b87ed047e9d5">
+<img width="943" alt="c" src="https://github.com/Guru07K/Weather-App-Gnanaguru/assets/141668518/043f65d4-5469-4cd3-9ee3-0197bd748cef">
+<img width="947" alt="mk" src="https://github.com/Guru07K/Weather-App-Gnanaguru/assets/141668518/89bfba47-0716-47df-a406-9a0fac634b39">
+<img width="945" alt="jcnj" src="https://github.com/Guru07K/Weather-App-Gnanaguru/assets/141668518/c67f6fc1-b202-46cf-bd8c-1b96b4329846">
+
 
 ## Setup
 Prereq apps to have downloaded
