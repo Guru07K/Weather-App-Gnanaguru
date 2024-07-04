@@ -17,7 +17,7 @@
 ## What is this?
 This is a MERN stack weather web application .
 
-**Weathering With You** is a weather web app to get the current weather data of city you submit into the form.
+This web app to get the current weather data of city you submit into the form.
  Consists of 4 main components
  - the header at the top
  - the form to input your city, and submit button
