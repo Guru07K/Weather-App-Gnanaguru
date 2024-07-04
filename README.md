@@ -18,11 +18,14 @@
 This is a MERN stack weather web application .
 
 This web app to get the current weather data of city you submit into the form.
- Consists of 4 main components
+ Consists of some main components
  - the header at the top
  - the form to input your city, and submit button
  - Display weather data
  - Add to your favourite city
+ - See Forecast Weather
+ - Register/Login/Logout
+ - Dashboard to see favourite city weather
 
 ## Setup
 Prereq apps to have downloaded
