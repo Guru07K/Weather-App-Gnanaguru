@@ -30,7 +30,7 @@ This web app to get the current weather data of city you submit into the form.
 ## Setup
 Prereq apps to have downloaded
 - [Node](https://nodejs.org/en/) 
-- [mongoDB]([https://git-scm.com/downloads](https://www.mongodb.com/))
+- [mongoDB](https://git-scm.com/downloads](https://www.mongodb.com/))
 
 
 Download all npm packages for both client/server
