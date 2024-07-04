@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GNANAGURU K</h1>
 <h3 align="center">MERN Stack</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -10,6 +10,6 @@
 
 
 
-Setup : should install node, express, mongoose, mongoDB
+<h3 align="center">Setup : should install node, express, mongoose, mongoDB</h3>
 Thirt-Party_library/packages : react-router-dom, jsonwebtoken, cookie-parser, dotenv, bcryptjs, axios, cors, tailwind
 
