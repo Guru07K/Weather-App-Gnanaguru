@@ -10,7 +10,8 @@
 
 
 <br/>
-<h3> Setup : should install node, express, mongoose, mongoDB</h3>
+<h3> Setup : should install Node, Express, mongoose, mongoDB</h3>
 <br/>
-<h3> Thirt-Party_library/packages : react-router-dom, jsonwebtoken, cookie-parser, dotenv, bcryptjs, axios, cors, tailwind</h3>
+<h3> Install Thirt Party library/packages :  react-router-dom, jsonwebtoken, cookie-parser, dotenv, bcryptjs, axios, cors, tailwind</h3>
+
 
